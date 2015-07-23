@@ -7,11 +7,11 @@
 ##你应该具备的基础
 
 - 曾经学过某种procedural language（C语言最佳）  
-1.变量（variables）  
-2.类型（types）: int, float, char, struct...  
-3.作用域（scope）  
-4.循环（loops）: while, for...  
-5.流程控制：if-else, switch-case  
+  1. 变量（variables）  
+  2. 类型（types）: int, float, char, struct...  
+  3. 作用域（scope）  
+  4. 循环（loops）: while, for...  
+  5. 流程控制：if-else, switch-case  
 - 知道一个程序需要编译、链接才能被执行
 - 知道如何编译和链接  
 （如何建议一个可运行程序）
@@ -22,9 +22,9 @@
 
 - 培养正规的、大气的编程习惯
 - 以良好的方式编写C++ class  
-class without pointer members  
+  - class without pointer members  
 -- Complex  
-class with pointer members  
+ - class with pointer members  
 -- String
 
 >* 面向对象
@@ -48,7 +48,7 @@ class with pointer members
 - B语言（1969）
 - C语言（1972）
 - C++语言（1983）  
-(new C -> C with Class -> C++)
+ - (new C -> C with Class -> C++)
 - Java语言
 - C#语言
 
