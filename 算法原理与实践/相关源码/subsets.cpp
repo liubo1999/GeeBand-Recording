@@ -31,16 +31,18 @@ int _tmain(int argc, _TCHAR* argv[])
 	vector<int> num;
 	for (int i = 0; i < N; i++) {
 		num.push_back(i+1);
-		}
+	}
 
 	vector<vector<int> > temp(subsets(num));
 	for(int i = 0; i < temp.size(); i++) {
+		
 		cout << "[";
 
 		for(int j = 0; j < temp[i].size(); j++) {
 			cout << temp[i][j] << " ";
 		}
 		
+		//i为0的时候，temp[i].size()为0，并不会进入第二层for循环，导致之前的“[”被删除。
 		if(i == 0)
 			cout << "[";
 		
