@@ -10,3 +10,4 @@
 ## 作者的话
 - 笔记正在不断完善中，喜欢请点star或者clone，请勿fork  
 - 更多精彩内容请观看博览极客班视频教程
+- 练习源码及最新更新详见[my github](https://github.com/Alvin-yeats/GeeBand-Recording)
