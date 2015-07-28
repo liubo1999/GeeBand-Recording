@@ -12,7 +12,7 @@
 
 - 尝试直接插入<img />标签来定义相关属性
 
-<img src="http://static.oschina.net/uploads/space/2012/0620/182352_CPmk_251604.png"  width="450" height="450" />
+<img src="http://static.oschina.net/uploads/space/2012/0620/182352_CPmk_251604.png"  width="675" height="450" />
 
 
 ------
