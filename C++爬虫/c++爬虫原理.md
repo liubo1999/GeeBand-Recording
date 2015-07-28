@@ -8,7 +8,7 @@
 
 ##爬虫原理图如下：
 
-![C++ Spider](http://photo.163.com/alvin_yeats/#m=2&aid=295516106&pid=9369310955)
+![C++ Spider](http://static.oschina.net/uploads/space/2012/0620/182352_CPmk_251604.png)
 
 
 
