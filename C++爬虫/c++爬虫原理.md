@@ -8,7 +8,7 @@
 
 ##爬虫原理图如下：
 
-<img src="http://static.oschina.net/uploads/space/2012/0620/182352_CPmk_251604.png"  width="675" height="450" />
+<img src="http://s7.sinaimg.cn/orignal/002wlibXgy6UbqUfECq76"  width="675" height="450" />
 
 ##爬虫流程如下：
 
@@ -22,9 +22,3 @@
 
 >* 摘自：C/C++程序员之家
 
-
-防止原地址删除导致图片链接无法访问，移动到自己博客博文进行测试
-
-![测试](http://s15.sinaimg.cn/orignal/002wlibXgy6RxsYac2i6e)
-
-------
